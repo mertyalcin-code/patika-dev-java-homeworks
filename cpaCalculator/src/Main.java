@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Aynı program içerisinde koşullu ifadeler kullanılarak, eğer kullanıcının ortalaması 60'dan büyük ise ekrana "Sınıfı Geçti" , küçük ise "Sınıfta Kaldı" yazsın.
+        //
+        //Not : If ve Else kullanılmayacak...
         int physic,math,chem,turkish,history,music;
         Scanner input = new Scanner(System.in);
         System.out.println("Fizik notunuzu giriniz: ");
