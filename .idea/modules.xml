@@ -27,12 +27,13 @@
       <module fileurl="file://$PROJECT_DIR$/leapYearCalculator/leapYearCalculator.iml" filepath="$PROJECT_DIR$/leapYearCalculator/leapYearCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/minMaxFinder/minMaxFinder.iml" filepath="$PROJECT_DIR$/minMaxFinder/minMaxFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/oddNumberExample/oddNumberExample.iml" filepath="$PROJECT_DIR$/oddNumberExample/oddNumberExample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/palindromNumbers/palindromNumbers.iml" filepath="$PROJECT_DIR$/palindromNumbers/palindromNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/perfectNumberFinder/perfectNumberFinder.iml" filepath="$PROJECT_DIR$/perfectNumberFinder/perfectNumberFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/planeTicketCalculator/planeTicketCalculator.iml" filepath="$PROJECT_DIR$/planeTicketCalculator/planeTicketCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/powerFinder/powerFinder.iml" filepath="$PROJECT_DIR$/powerFinder/powerFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/powerFinderExample/powerFinderExample.iml" filepath="$PROJECT_DIR$/powerFinderExample/powerFinderExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeFinderInRange/primeFinderInRange.iml" filepath="$PROJECT_DIR$/primeFinderInRange/primeFinderInRange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindromNumbers/recursiveFibonacci.iml" filepath="$PROJECT_DIR$/palindromNumbers/recursiveFibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursiveFinonacci/recursiveFinonacci.iml" filepath="$PROJECT_DIR$/recursiveFinonacci/recursiveFinonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverseTriangle/reverseTriangle.iml" filepath="$PROJECT_DIR$/reverseTriangle/reverseTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" filepath="$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" />
     </modules>
