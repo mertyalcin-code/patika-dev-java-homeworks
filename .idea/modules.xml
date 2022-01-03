@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArmstrongNumberFinder/ArmstrongNumberFinder.iml" filepath="$PROJECT_DIR$/ArmstrongNumberFinder/ArmstrongNumberFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advencedCalculator/advencedCalculator.iml" filepath="$PROJECT_DIR$/advencedCalculator/advencedCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/atmExample/atmExample.iml" filepath="$PROJECT_DIR$/atmExample/atmExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicAuth/basicAuth.iml" filepath="$PROJECT_DIR$/basicAuth/basicAuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicCalculator/basicCalculator.iml" filepath="$PROJECT_DIR$/basicCalculator/basicCalculator.iml" />
