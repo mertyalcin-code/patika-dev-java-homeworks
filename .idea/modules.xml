@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/leapYearCalculator/leapYearCalculator.iml" filepath="$PROJECT_DIR$/leapYearCalculator/leapYearCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/oddNumberExample/oddNumberExample.iml" filepath="$PROJECT_DIR$/oddNumberExample/oddNumberExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/planeTicketCalculator/planeTicketCalculator.iml" filepath="$PROJECT_DIR$/planeTicketCalculator/planeTicketCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/powerFinderExample/powerFinderExample.iml" filepath="$PROJECT_DIR$/powerFinderExample/powerFinderExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" filepath="$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" />
     </modules>
   </component>
