@@ -5,16 +5,15 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         System.out.print("Sayı Giriniz:");
         int n= scan.nextInt();
-        System.out.println(isPrime(n,2));
+        System.out.println(isPrime(n,2)?"Asal Sayıdır":"Asal Sayı Değildir");
     }
-    static boolean isPrime(int n,int i){
-        if(i==n){
+    static boolean isPrime(int number,int i){
+        if(i>=number){
             return true;
         }
-        if(n%i==0){
-            return false;
-        }
-
-        return isPrime(n,i++);
+       if(number%i==0){
+           return false;
+       }
+       else return isPrime(number,i+1);
     }
 }
