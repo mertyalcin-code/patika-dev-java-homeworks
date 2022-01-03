@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/bodyMassIndexCalculator/bodyMassIndexCalculator.iml" filepath="$PROJECT_DIR$/bodyMassIndexCalculator/bodyMassIndexCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleSegmentAreaCalculator/circleSegmentAreaCalculator.iml" filepath="$PROJECT_DIR$/circleSegmentAreaCalculator/circleSegmentAreaCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/cpaCalculator/cpaCalculator.iml" filepath="$PROJECT_DIR$/cpaCalculator/cpaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cpaCalculator2/cpaCalculator2.iml" filepath="$PROJECT_DIR$/cpaCalculator2/cpaCalculator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/groceryHelper/groceryHelper.iml" filepath="$PROJECT_DIR$/groceryHelper/groceryHelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvCalculator/kdvCalculator.iml" filepath="$PROJECT_DIR$/kdvCalculator/kdvCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" filepath="$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" />
