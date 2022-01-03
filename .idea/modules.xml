@@ -50,6 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/salaryCalculator/salaryCalculator.iml" filepath="$PROJECT_DIR$/salaryCalculator/salaryCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentInfoSystem/studentInfoSystem.iml" filepath="$PROJECT_DIR$/studentInfoSystem/studentInfoSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" filepath="$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valueGuessGame/valueGuessGame.iml" filepath="$PROJECT_DIR$/valueGuessGame/valueGuessGame.iml" />
     </modules>
   </component>
 </project>
