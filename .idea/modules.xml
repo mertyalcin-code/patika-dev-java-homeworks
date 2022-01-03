@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/kdvCalculator/kdvCalculator.iml" filepath="$PROJECT_DIR$/kdvCalculator/kdvCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/leapYearCalculator/leapYearCalculator.iml" filepath="$PROJECT_DIR$/leapYearCalculator/leapYearCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/letterBwithArrays/letterBwithArrays.iml" filepath="$PROJECT_DIR$/letterBwithArrays/letterBwithArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrisTranspose/matrisTranspose.iml" filepath="$PROJECT_DIR$/matrisTranspose/matrisTranspose.iml" />
       <module fileurl="file://$PROJECT_DIR$/minMaxFinder/minMaxFinder.iml" filepath="$PROJECT_DIR$/minMaxFinder/minMaxFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/oddNumberExample/oddNumberExample.iml" filepath="$PROJECT_DIR$/oddNumberExample/oddNumberExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/perfectNumberFinder/perfectNumberFinder.iml" filepath="$PROJECT_DIR$/perfectNumberFinder/perfectNumberFinder.iml" />
