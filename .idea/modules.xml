@@ -39,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/palindromNumbers/recursiveFibonacci.iml" filepath="$PROJECT_DIR$/palindromNumbers/recursiveFibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursiveFinonacci/recursiveFinonacci.iml" filepath="$PROJECT_DIR$/recursiveFinonacci/recursiveFinonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverseTriangle/reverseTriangle.iml" filepath="$PROJECT_DIR$/reverseTriangle/reverseTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentInfoSystem/studentInfoSystem.iml" filepath="$PROJECT_DIR$/studentInfoSystem/studentInfoSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" filepath="$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" />
     </modules>
   </component>
