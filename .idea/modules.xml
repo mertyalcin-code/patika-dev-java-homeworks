@@ -8,10 +8,12 @@
       <module fileurl="file://$PROJECT_DIR$/bodyMassIndexCalculator/bodyMassIndexCalculator.iml" filepath="$PROJECT_DIR$/bodyMassIndexCalculator/bodyMassIndexCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/chineseZodiacCalculator/chineseZodiacCalculator.iml" filepath="$PROJECT_DIR$/chineseZodiacCalculator/chineseZodiacCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleSegmentAreaCalculator/circleSegmentAreaCalculator.iml" filepath="$PROJECT_DIR$/circleSegmentAreaCalculator/circleSegmentAreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/combinationCalculator/combinationCalculator.iml" filepath="$PROJECT_DIR$/combinationCalculator/combinationCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditionExampleWeather/conditionExampleWeather.iml" filepath="$PROJECT_DIR$/conditionExampleWeather/conditionExampleWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/cpaCalculator/cpaCalculator.iml" filepath="$PROJECT_DIR$/cpaCalculator/cpaCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/cpaCalculator2/cpaCalculator2.iml" filepath="$PROJECT_DIR$/cpaCalculator2/cpaCalculator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/evenNumberFinder/evenNumberFinder.iml" filepath="$PROJECT_DIR$/evenNumberFinder/evenNumberFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorialCalculator/factorialCalculator.iml" filepath="$PROJECT_DIR$/factorialCalculator/factorialCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/groceryHelper/groceryHelper.iml" filepath="$PROJECT_DIR$/groceryHelper/groceryHelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/horoscopeFinder/horoscopeFinder.iml" filepath="$PROJECT_DIR$/horoscopeFinder/horoscopeFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvCalculator/kdvCalculator.iml" filepath="$PROJECT_DIR$/kdvCalculator/kdvCalculator.iml" />
