@@ -7,7 +7,7 @@ public class Main {
         System.out.print("Doğum Yılınız:");
         birthYear = scan.nextInt();
         int num = birthYear%12;
-        String zodiac="";
+        String zodiac;
         switch (num){
             case 0-> zodiac="Maymun";
             case 1-> zodiac="Horoz";
