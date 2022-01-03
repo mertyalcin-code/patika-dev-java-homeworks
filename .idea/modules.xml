@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/cpaCalculator/cpaCalculator.iml" filepath="$PROJECT_DIR$/cpaCalculator/cpaCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/cpaCalculator2/cpaCalculator2.iml" filepath="$PROJECT_DIR$/cpaCalculator2/cpaCalculator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/groceryHelper/groceryHelper.iml" filepath="$PROJECT_DIR$/groceryHelper/groceryHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/horoscopeFinder/horoscopeFinder.iml" filepath="$PROJECT_DIR$/horoscopeFinder/horoscopeFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvCalculator/kdvCalculator.iml" filepath="$PROJECT_DIR$/kdvCalculator/kdvCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" filepath="$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" />
     </modules>
