@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArmstrongNumberFinder/ArmstrongNumberFinder.iml" filepath="$PROJECT_DIR$/ArmstrongNumberFinder/ArmstrongNumberFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/advencedCalculator/advencedCalculator.iml" filepath="$PROJECT_DIR$/advencedCalculator/advencedCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/armstrongNumberFinder/armstrongNumberFinder.iml" filepath="$PROJECT_DIR$/armstrongNumberFinder/armstrongNumberFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/atmExample/atmExample.iml" filepath="$PROJECT_DIR$/atmExample/atmExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicAuth/basicAuth.iml" filepath="$PROJECT_DIR$/basicAuth/basicAuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicCalculator/basicCalculator.iml" filepath="$PROJECT_DIR$/basicCalculator/basicCalculator.iml" />
@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/planeTicketCalculator/planeTicketCalculator.iml" filepath="$PROJECT_DIR$/planeTicketCalculator/planeTicketCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/powerFinder/powerFinder.iml" filepath="$PROJECT_DIR$/powerFinder/powerFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/powerFinderExample/powerFinderExample.iml" filepath="$PROJECT_DIR$/powerFinderExample/powerFinderExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/powerFinderRecursive/powerFinderRecursive.iml" filepath="$PROJECT_DIR$/powerFinderRecursive/powerFinderRecursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeFinderInRange/primeFinderInRange.iml" filepath="$PROJECT_DIR$/primeFinderInRange/primeFinderInRange.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindromNumbers/recursiveFibonacci.iml" filepath="$PROJECT_DIR$/palindromNumbers/recursiveFibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursiveFinonacci/recursiveFinonacci.iml" filepath="$PROJECT_DIR$/recursiveFinonacci/recursiveFinonacci.iml" />
