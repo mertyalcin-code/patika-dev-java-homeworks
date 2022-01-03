@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArmstrongNumberFinder/ArmstrongNumberFinder.iml" filepath="$PROJECT_DIR$/ArmstrongNumberFinder/ArmstrongNumberFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicAuth/basicAuth.iml" filepath="$PROJECT_DIR$/basicAuth/basicAuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicCalculator/basicCalculator.iml" filepath="$PROJECT_DIR$/basicCalculator/basicCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicSort/basicSort.iml" filepath="$PROJECT_DIR$/basicSort/basicSort.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/conditionExampleWeather/conditionExampleWeather.iml" filepath="$PROJECT_DIR$/conditionExampleWeather/conditionExampleWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/cpaCalculator/cpaCalculator.iml" filepath="$PROJECT_DIR$/cpaCalculator/cpaCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/cpaCalculator2/cpaCalculator2.iml" filepath="$PROJECT_DIR$/cpaCalculator2/cpaCalculator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digitSumCalculator/digitSumCalculator.iml" filepath="$PROJECT_DIR$/digitSumCalculator/digitSumCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/evenNumberFinder/evenNumberFinder.iml" filepath="$PROJECT_DIR$/evenNumberFinder/evenNumberFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/factorialCalculator/factorialCalculator.iml" filepath="$PROJECT_DIR$/factorialCalculator/factorialCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/groceryHelper/groceryHelper.iml" filepath="$PROJECT_DIR$/groceryHelper/groceryHelper.iml" />
