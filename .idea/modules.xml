@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArmstrongNumberFinder/ArmstrongNumberFinder.iml" filepath="$PROJECT_DIR$/ArmstrongNumberFinder/ArmstrongNumberFinder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EbobAndEkokFinder/EbobAndEkokFinder.iml" filepath="$PROJECT_DIR$/EbobAndEkokFinder/EbobAndEkokFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/atmExample/atmExample.iml" filepath="$PROJECT_DIR$/atmExample/atmExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicAuth/basicAuth.iml" filepath="$PROJECT_DIR$/basicAuth/basicAuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicCalculator/basicCalculator.iml" filepath="$PROJECT_DIR$/basicCalculator/basicCalculator.iml" />
@@ -17,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/cpaCalculator2/cpaCalculator2.iml" filepath="$PROJECT_DIR$/cpaCalculator2/cpaCalculator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/digitSumCalculator/digitSumCalculator.iml" filepath="$PROJECT_DIR$/digitSumCalculator/digitSumCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/dimondPattern/dimondPattern.iml" filepath="$PROJECT_DIR$/dimondPattern/dimondPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ebobAndEkokFinder/ebobAndEkokFinder.iml" filepath="$PROJECT_DIR$/ebobAndEkokFinder/ebobAndEkokFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/evenNumberFinder/evenNumberFinder.iml" filepath="$PROJECT_DIR$/evenNumberFinder/evenNumberFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/factorialCalculator/factorialCalculator.iml" filepath="$PROJECT_DIR$/factorialCalculator/factorialCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/groceryHelper/groceryHelper.iml" filepath="$PROJECT_DIR$/groceryHelper/groceryHelper.iml" />
