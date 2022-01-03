@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/basicAuth/basicAuth.iml" filepath="$PROJECT_DIR$/basicAuth/basicAuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicCalculator/basicCalculator.iml" filepath="$PROJECT_DIR$/basicCalculator/basicCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/bodyMassIndexCalculator/bodyMassIndexCalculator.iml" filepath="$PROJECT_DIR$/bodyMassIndexCalculator/bodyMassIndexCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleSegmentAreaCalculator/circleSegmentAreaCalculator.iml" filepath="$PROJECT_DIR$/circleSegmentAreaCalculator/circleSegmentAreaCalculator.iml" />
