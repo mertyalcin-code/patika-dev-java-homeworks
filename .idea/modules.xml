@@ -30,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/planeTicketCalculator/planeTicketCalculator.iml" filepath="$PROJECT_DIR$/planeTicketCalculator/planeTicketCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/powerFinder/powerFinder.iml" filepath="$PROJECT_DIR$/powerFinder/powerFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/powerFinderExample/powerFinderExample.iml" filepath="$PROJECT_DIR$/powerFinderExample/powerFinderExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverseTriangle/reverseTriangle.iml" filepath="$PROJECT_DIR$/reverseTriangle/reverseTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" filepath="$PROJECT_DIR$/triangleAreaCalculator/triangleAreaCalculator.iml" />
     </modules>
   </component>
