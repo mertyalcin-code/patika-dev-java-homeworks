@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/evenNumberFinder/evenNumberFinder.iml" filepath="$PROJECT_DIR$/evenNumberFinder/evenNumberFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/factorialCalculator/factorialCalculator.iml" filepath="$PROJECT_DIR$/factorialCalculator/factorialCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/groceryHelper/groceryHelper.iml" filepath="$PROJECT_DIR$/groceryHelper/groceryHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/harmonicNumberFinder/harmonicNumberFinder.iml" filepath="$PROJECT_DIR$/harmonicNumberFinder/harmonicNumberFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/horoscopeFinder/horoscopeFinder.iml" filepath="$PROJECT_DIR$/horoscopeFinder/horoscopeFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvCalculator/kdvCalculator.iml" filepath="$PROJECT_DIR$/kdvCalculator/kdvCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/leapYearCalculator/leapYearCalculator.iml" filepath="$PROJECT_DIR$/leapYearCalculator/leapYearCalculator.iml" />
