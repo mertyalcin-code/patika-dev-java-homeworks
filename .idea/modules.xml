@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/advencedCalculator/advencedCalculator.iml" filepath="$PROJECT_DIR$/advencedCalculator/advencedCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/armstrongNumberFinder/armstrongNumberFinder.iml" filepath="$PROJECT_DIR$/armstrongNumberFinder/armstrongNumberFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayFrequency/arrayFrequency.iml" filepath="$PROJECT_DIR$/arrayFrequency/arrayFrequency.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayMinMaxExample/arrayMinMaxExample.iml" filepath="$PROJECT_DIR$/arrayMinMaxExample/arrayMinMaxExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayRepeatedNumbers/arrayRepeatedNumbers.iml" filepath="$PROJECT_DIR$/arrayRepeatedNumbers/arrayRepeatedNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/arraySortExample/arraySortExample.iml" filepath="$PROJECT_DIR$/arraySortExample/arraySortExample.iml" />
