@@ -34,6 +34,8 @@
       <module fileurl="file://$PROJECT_DIR$/powerFinderExample/powerFinderExample.iml" filepath="$PROJECT_DIR$/powerFinderExample/powerFinderExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/powerFinderRecursive/powerFinderRecursive.iml" filepath="$PROJECT_DIR$/powerFinderRecursive/powerFinderRecursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeFinderInRange/primeFinderInRange.iml" filepath="$PROJECT_DIR$/primeFinderInRange/primeFinderInRange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeFinderRecursive/primeFinderRecursive.iml" filepath="$PROJECT_DIR$/primeFinderRecursive/primeFinderRecursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursiveExample/recursiveExample.iml" filepath="$PROJECT_DIR$/recursiveExample/recursiveExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindromNumbers/recursiveFibonacci.iml" filepath="$PROJECT_DIR$/palindromNumbers/recursiveFibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursiveFinonacci/recursiveFinonacci.iml" filepath="$PROJECT_DIR$/recursiveFinonacci/recursiveFinonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverseTriangle/reverseTriangle.iml" filepath="$PROJECT_DIR$/reverseTriangle/reverseTriangle.iml" />
