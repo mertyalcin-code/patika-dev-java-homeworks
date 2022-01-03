@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/ebobAndEkokFinder/ebobAndEkokFinder.iml" filepath="$PROJECT_DIR$/ebobAndEkokFinder/ebobAndEkokFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/evenNumberFinder/evenNumberFinder.iml" filepath="$PROJECT_DIR$/evenNumberFinder/evenNumberFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/factorialCalculator/factorialCalculator.iml" filepath="$PROJECT_DIR$/factorialCalculator/factorialCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibonacciFinder/fibonacciFinder.iml" filepath="$PROJECT_DIR$/fibonacciFinder/fibonacciFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/groceryHelper/groceryHelper.iml" filepath="$PROJECT_DIR$/groceryHelper/groceryHelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/harmonicNumberFinder/harmonicNumberFinder.iml" filepath="$PROJECT_DIR$/harmonicNumberFinder/harmonicNumberFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/horoscopeFinder/horoscopeFinder.iml" filepath="$PROJECT_DIR$/horoscopeFinder/horoscopeFinder.iml" />
