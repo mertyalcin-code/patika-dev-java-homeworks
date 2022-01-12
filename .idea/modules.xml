@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/advencedCalculator/advencedCalculator.iml" filepath="$PROJECT_DIR$/advencedCalculator/advencedCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/armstrongNumberFinder/armstrongNumberFinder.iml" filepath="$PROJECT_DIR$/armstrongNumberFinder/armstrongNumberFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayFrequency/arrayFrequency.iml" filepath="$PROJECT_DIR$/arrayFrequency/arrayFrequency.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/boxingGame/boxingGame.iml" filepath="$PROJECT_DIR$/boxingGame/boxingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/chineseZodiacCalculator/chineseZodiacCalculator.iml" filepath="$PROJECT_DIR$/chineseZodiacCalculator/chineseZodiacCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleSegmentAreaCalculator/circleSegmentAreaCalculator.iml" filepath="$PROJECT_DIR$/circleSegmentAreaCalculator/circleSegmentAreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderByteChallenge/coderByteChallenge.iml" filepath="$PROJECT_DIR$/coderByteChallenge/coderByteChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/combinationCalculator/combinationCalculator.iml" filepath="$PROJECT_DIR$/combinationCalculator/combinationCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditionExampleWeather/conditionExampleWeather.iml" filepath="$PROJECT_DIR$/conditionExampleWeather/conditionExampleWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/cpaCalculator/cpaCalculator.iml" filepath="$PROJECT_DIR$/cpaCalculator/cpaCalculator.iml" />

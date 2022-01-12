@@ -1,7 +1,4 @@
-import java.util.Arrays;
-import java.util.Objects;
-import java.util.Random;
-import java.util.Scanner;
+import java.util.*;
 
 public class MineSweeper {
     int row,col;
@@ -30,6 +27,7 @@ public class MineSweeper {
         }
         for (String[] strings : game) {
             Arrays.fill(strings, "-");
+
         }
     }
 
@@ -79,9 +77,9 @@ public class MineSweeper {
             this.isGameOver=true;
         }
         else {
-            for (int k = 0; k <3 ; k++) {
-                for (int l = 0; l <3 ; l++) {
-                    if(k==1 && l==1){
+            for (int k = i-1; k <=i+1 ; k++) {
+                for (int l = j-1; l <=j+1 ; l++) {
+                    if(k==i && l==j){
                         continue;
                     }
                         try {
